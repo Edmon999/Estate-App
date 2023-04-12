@@ -9,6 +9,7 @@ import { Location } from "../../../common/components/Map/Map";
 import { IRealEstateItem } from "../../interfaces/interfaces";
 
 import "./PropertyDetailPage.scss";
+import { API_URL } from "../../../../constants";
 
 function PropertyDetailPage() {
   const { id } = useParams<{ id: string }>();
@@ -17,13 +18,13 @@ function PropertyDetailPage() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    const fetchProperty = async () => {
-      const response = await fetch(`http://localhost:3001/properties/${id}`);
+    const getProperty = async () => {
+      const response = await fetch(`${API_URL}/properties/${id}`);
       const data = await response.json();
       setProperty(data);
     };
 
-    fetchProperty();
+    getProperty();
   }, [id]);
 
   const handleGoBack = () => {
