@@ -1,0 +1,73 @@
+.property-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
+    .property-link {
+      text-decoration: none;
+      color: none;
+    }
+  
+    .ant-card {
+      width: 300px;
+  
+      .ant-card-cover {
+        height: 200px;
+        overflow: hidden;
+  
+        img {
+          height: 100%;
+          width: 100%;
+          object-fit: cover;
+        }
+      }
+  
+    .property-type {
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        padding: 4px 8px;
+        border-radius: 4px;
+        color: #fff;
+        font-weight: bold;
+        text-transform: uppercase;
+  
+        &.sale {
+          background-color: #faad14;
+        }
+  
+        &.rent {
+          background-color: #1890ff;
+        }
+      }
+  
+      .property-details {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+  
+        .property-location,
+        .property-price {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          font-size: 16px;
+  
+          span {
+            font-weight: bold;
+          }
+  
+          p {
+            margin: 0;
+          }
+        }
+      }
+    }
+
+    .btn-container {
+      display: flex;
+      gap: 12px;
+      margin-top: 8px;
+    }
+  }
+  

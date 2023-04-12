@@ -1,0 +1,202 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Sky  House",
+      "propertyType": "Townhome",
+      "description": "Built on the backdrop of the Mojave desert, this architectural marvel integrates beauty with simplicity. Living in beautiful houses inside the picturesque landscape of the desert is a dream everyone doesn’t get the chance to materialise. It is a lovely expression of forms and materials, brilliantly placed to form crevices cooled by shade and plantation, exactly mimicking the desert topography.",
+      "address": "456 Elm St",
+      "location": {
+        "lat": 56.641127,
+        "lng": 45.990056
+      },
+      "price": 10000,
+      "forSale": false,
+      "agent": {
+        "name": "Edmon ",
+        "phone": "+374 94621816",
+        "email": "edmon.sargsyan999@gmail.com",
+        "agentId": 1
+      },
+      "images": [
+        "https://architropics.com/wp-content/uploads/2021/06/passive-design-inside-out-04.jpg",
+        "https://lh3.googleusercontent.com/ubv0YXaTjF-V9wjbWD5oR7266T2yWY-cDtn6QX-7NAiYQeR54KjJ88SSSXYjjcNmdoVhtmh3TOUBNJc6yWZegB4-D4QKTWH4e0PpIBbg_OpUWa4388oZytXdQ3_ZiXm1Op_qzc447h_CTAt5Qw",
+        "https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Garden House",
+      "propertyType": "Condos",
+      "address": "motik tex",
+      "location": {
+        "lat": 33.847608,
+        "lng": -90.553283
+      },
+      "city": "New York",
+      "state": "NY",
+      "price": 1650000,
+      "description": "The extraordinary design of this house was inspired by the concept of ‘family archaeology’, where children continue to enjoy the warmth and love of their family even when they grow independent. The fluid shape and minimalistic construction signify how families grow and expand without separating from the primary source. With an area of 6,900 sq. metres, the dwelling has four bedrooms and a vast dining area for those big family meals together, and it also houses a pool to chill out and relax. Undoubtedly, this is one of the best houses to live in for those families who want to grow together.",
+      "agent": {
+        "name": "Edmon Sargsyan",
+        "phone": "+374 94621816",
+        "email": "edmon.sargsyan999@gmail.com",
+        "agentId": 1
+      },
+      "images": [
+        "https://www.lushome.com/wp-content/uploads/2012/02/modern-house-interior-design-ideas-brick-wood-2.jpg",
+        "https://lh3.googleusercontent.com/ubv0YXaTjF-V9wjbWD5oR7266T2yWY-cDtn6QX-7NAiYQeR54KjJ88SSSXYjjcNmdoVhtmh3TOUBNJc6yWZegB4-D4QKTWH4e0PpIBbg_OpUWa4388oZytXdQ3_ZiXm1Op_qzc447h_CTAt5Qw",
+        "https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+      ],
+      "forSale": true
+    },
+    {
+      "id": 4,
+      "name": "Sky Garden House",
+      "address": "456 Elm St",
+      "propertyType": "Apartment",
+      "location": {
+        "lat": 43.687736,
+        "lng": 20.308857
+      },
+      "city": "New York",
+      "state": "NY",
+      "price": 10420,
+      "description": "Blending into the grassy cliff, Malator House stealthily peeks into the vast coastal expanse. However, its beauty does not lie in its covertness but in its minimal invasiveness and temperature maintenance capability. Though it is hidden from passers-by, the residents of this beautiful 3-bedroom apartment can have a clear view of the entire coastline. The bathrooms are made of vibrant coloured pods and are complete with suits.",
+      "agent": {
+        "name": "Edmon Sargsyan",
+        "phone": "+374 94621816",
+        "email": "edmon.sargsyan999@gmail.com",
+        "agentId": 1
+      },
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQMUCP-jUzyj2KWzEO0xYEbFvSLpCb0kFEMhHz-_Ofa-D_owrMtzgota8uyIYUIMVx0u0&usqp=CAU",
+        "https://lh3.googleusercontent.com/ubv0YXaTjF-V9wjbWD5oR7266T2yWY-cDtn6QX-7NAiYQeR54KjJ88SSSXYjjcNmdoVhtmh3TOUBNJc6yWZegB4-D4QKTWH4e0PpIBbg_OpUWa4388oZytXdQ3_ZiXm1Op_qzc447h_CTAt5Qw",
+        "https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sky Garden House",
+      "propertyType": "Ranch",
+      "description": "The Sky Garden House is a residential property located in Singapore.offers stunning views of the cityscape. The interior is just as impressive, with a spacious open-plan layout and floor-to-ceiling windows that let in natural light. The ‘go green’ attitude to the environment had a hand in the architecture’s distinctive one-of-a-kind design. If you love to live in the lap of nature, then this is the best house for you. Whether you look at the rooftop or go to the terrace for a walk, you will get a visual treat of fauna surrounding you. The unique architectural design is inspired by the sustainable living approach towards the environment.",
+      "address": "456 Elm St",
+      "location": {
+        "lat": 27.814786,
+        "lng": 44.934664
+      },
+      "price": "150008",
+      "forSale": false,
+      "agent": {
+        "name": "Edmon Sargsyan",
+        "phone": "+374 94621816",
+        "email": "edmon.sargsyan999@gmail.com",
+        "agentId": 1
+      },
+      "images": [
+        "https://img.staticmb.com/mbcontent//images/uploads/2022/12/Most-Beautiful-House-in-the-World.jpg",
+        "https://lh3.googleusercontent.com/ubv0YXaTjF-V9wjbWD5oR7266T2yWY-cDtn6QX-7NAiYQeR54KjJ88SSSXYjjcNmdoVhtmh3TOUBNJc6yWZegB4-D4QKTWH4e0PpIBbg_OpUWa4388oZytXdQ3_ZiXm1Op_qzc447h_CTAt5Qw",
+        "https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sky Garden House",
+      "address": "456 Elm St",
+      "propertyType": "Apartment",
+      "city": "New York",
+      "state": "NY",
+      "location": {
+        "lat": 27.814786,
+        "lng": 44.934664
+      },
+      "price": 15,
+      "description": "The Sky Garden House is a residential property located in Singapore. The building was completed in 2011 and has since become an iconic landmark in the city. The house is built on stilts and features a cantilevered glass facade that offers stunning views of the cityscape. The interior is just as impressive, with a spacious open-plan layout and floor-to-ceiling windows that let in natural light. The ‘go green’ attitude to the environment had a hand in the architecture’s distinctive one-of-a-kind design. If you love to live in the lap of nature, then this is the best house for you. Whether you look at the rooftop or go to the terrace for a walk, you will get a visual treat of fauna surrounding you. The unique architectural design is inspired by the sustainable living approach towards the environment.",
+      "agent": {
+        "name": "Edmon Sargsyan",
+        "phone": "+374 94621816",
+        "email": "edmon.sargsyan999@gmail.com",
+        "agentId": 1
+      },
+      "images": [
+        "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/home-improvement/wp-content/uploads/2022/08/santamonica-realtor.jpg",
+        "https://lh3.googleusercontent.com/ubv0YXaTjF-V9wjbWD5oR7266T2yWY-cDtn6QX-7NAiYQeR54KjJ88SSSXYjjcNmdoVhtmh3TOUBNJc6yWZegB4-D4QKTWH4e0PpIBbg_OpUWa4388oZytXdQ3_ZiXm1Op_qzc447h_CTAt5Qw",
+        "https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+      ],
+      "forSale": true
+    },
+    {
+      "id": 7,
+      "name": "Sky Garden House",
+      "address": "456 Elm St",
+      "propertyType": "Apartment",
+      "city": "New York",
+      "state": "NY",
+      "price": 150000,
+      "location": {
+        "lat": 27.814786,
+        "lng": 44.934664
+      },
+      "description": "The Sky Garden House is a residential property located in Singapore. The building was completed in 2011 and has since become an iconic landmark in the city. The house is built on stilts and features a cantilevered glass facade that offers stunning views of the cityscape. The interior is just as impressive, with a spacious open-plan layout and floor-to-ceiling windows that let in natural light. The ‘go green’ attitude to the environment had a hand in the architecture’s distinctive one-of-a-kind design. If you love to live in the lap of nature, then this is the best house for you. Whether you look at the rooftop or go to the terrace for a walk, you will get a visual treat of fauna surrounding you. The unique architectural design is inspired by the sustainable living approach towards the environment.",
+      "agent": {
+        "name": "Edmon Sargsyan",
+        "phone": "+374 94621816",
+        "email": "edmon.sargsyan999@gmail.com",
+        "agentId": 1
+      },
+      "images": [
+        "https://img.staticmb.com/mbcontent//images/uploads/2022/12/Most-Beautiful-House-in-the-World.jpg",
+        "https://lh3.googleusercontent.com/ubv0YXaTjF-V9wjbWD5oR7266T2yWY-cDtn6QX-7NAiYQeR54KjJ88SSSXYjjcNmdoVhtmh3TOUBNJc6yWZegB4-D4QKTWH4e0PpIBbg_OpUWa4388oZytXdQ3_ZiXm1Op_qzc447h_CTAt5Qw",
+        "https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+      ]
+    },
+    {
+      "id": 0.5642948355364086,
+      "name": "aea",
+      "propertyType": "Apartment",
+      "description": "aw",
+      "address": "Abovyan St",
+      "location": {
+        "lat": 40.94783,
+        "lng": -95.497347
+      },
+      "price": "4",
+      "forSale": false,
+      "agent": {
+        "name": "Ed",
+        "phone": "324",
+        "email": "ge@gmail.com",
+        "agentId": 1
+      },
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgbpmuSrQLfQA_iMNZMLsauBlNRi392-3lXA&usqp=CAU",
+        "https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+      ]
+    },
+    {
+      "id": 0.3981257895210506,
+      "name": "aea",
+      "propertyType": "Apartment",
+      "description": "wefe",
+      "address": "Abovyan Street",
+      "location": {
+        "lat": 45.54,
+        "lng": 64.547
+      },
+      "price": "4",
+      "forSale": true,
+      "agent": {
+        "name": "324",
+        "phone": "324",
+        "email": "fs54645@gmail.com",
+        "agentId": 1
+      },
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgbpmuSrQLfQA_iMNZMLsauBlNRi392-3lXA&usqp=CAU",
+        "https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+      ]
+    }
+  ]
+}

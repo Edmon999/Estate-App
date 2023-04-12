@@ -1,0 +1,29 @@
+.property-detail {
+  .property-detail-header {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+
+    button {
+      margin-right: 20px;
+    }
+  }
+
+  .property-detail-title {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 28px;
+  }
+
+  .property-detail-content {
+    padding: 30px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+
+    .property-detail-description {
+      margin-top: 20px;
+      font-size: 18px;
+      line-height: 1.5;
+    }
+  }
+}
