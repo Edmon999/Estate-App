@@ -8,9 +8,9 @@ Install the dependencies:
 ### npm install
 
 ## Running the App
-Start the JSON server: \
-### npm run json-server \
+Start the JSON server: 
+### npm run json-server 
 
-In a new terminal: \
+In a new terminal: 
 ### npm run start
  
