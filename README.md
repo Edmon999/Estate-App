@@ -5,9 +5,12 @@ Clone the repository to your local machine.
 
 Install the dependencies:
 
-npm install
+### npm install
 
 ## Running the App
-Start the JSON server: npm run json-server
-In a new terminal: npm run start
+Start the JSON server: \
+### npm run json-server \
+
+In a new terminal: \
+### npm run start
  
